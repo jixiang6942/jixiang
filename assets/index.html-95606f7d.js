@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-84292aa6","path":"/tags/qianduanmianshiti/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{a as data};

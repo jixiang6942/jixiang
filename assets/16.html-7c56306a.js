@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4572a38d","path":"/blogs/base/16.html","title":"15-vue3+TS项目(管理系统)","lang":"en-US","frontmatter":{"title":"15-vue3+TS项目(管理系统)","date":"2024/02/18","tags":["vue3，TS"],"categories":["vue3，TS"]},"headers":[],"git":{},"filePathRelative":"blogs/base/16.md"}');export{e as data};
